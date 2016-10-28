@@ -342,7 +342,7 @@ body {
       background-color: #83c4ee; }
 
 @keyframes big {
-  0% {
+  50% {
     transform: translate3d(0, -100%, 0); }
   100% {
     transform: translate3d(0, -5rem, 0); } }

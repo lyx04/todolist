@@ -301,7 +301,7 @@ body {
   background: #48a1e3;
   overflow-y:hidden;
   //background-color:red;
-  transform: translate3d(0, -300%, 0);
+  transform: translate3d(0, -1000%, 0);
   overflow-x:hidden;
   top:100%;
   &.active {
@@ -377,7 +377,7 @@ body {
     transform: translate3d(0, -100%, 0)
   }
   100% {
-    transform: translate3d(0, -4rem, 0)
+    transform: translate3d(0, -5rem, 0)
   }
 }
 
